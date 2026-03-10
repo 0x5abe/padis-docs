@@ -1,21 +1,32 @@
-# PADIS – Guías de uso
+# PADISLIB – Documentación
 
-Este repositorio sirve como punto de acceso a las **guías de uso de PADIS**, mantenidas en la **Wiki del repositorio**.
+Este repositorio reúne documentación de apoyo para **PADISLIB** y su uso en PADIS. Incluye:
 
-La Wiki reúne principalmente **guías dirigidas a docentes** para la creación y configuración de ejercicios con PADIS. Entre los temas cubiertos se incluyen:
+- **Guías de uso** (principalmente dirigidas a docentes) mantenidas en la **Wiki del repositorio**.
+- **Documentación de issues** identificados durante la **validación empírica** (docentes y estudiantes), utilizada como referencia para el mantenimiento y la evolución de la plataforma.
 
-- la preparación de repositorios base para ejercicios,
-- la configuración de assignments en GitHub Classroom,
-- y la elaboración de archivos de checks utilizando PADISLIB.
+Este material fue utilizado durante el desarrollo y la validación de PADIS y se menciona como referencia en la tesis asociada al proyecto.
 
-Estas guías fueron utilizadas durante el desarrollo y validación de PADIS y se mencionan como referencia en la tesis asociada al proyecto.
+## Guías de uso (Wiki)
 
-## Acceso a las guías
+La Wiki reúne principalmente guías para:
 
-Las guías completas se encuentran disponibles en la **Wiki del repositorio**:
+- preparación de repositorios base para ejercicios,
+- configuración de assignments en GitHub Classroom,
+- elaboración de archivos de checks utilizando PADISLIB.
 
-- Ver la Wiki:
+Las guías completas se encuentran en la **Wiki del repositorio**:
+
+- [0. Guía ‐ Ejercicio local con PADIS](https://github.com/0x5abe/padislib-docs/wiki/0.-Gu%C3%ADa-%E2%80%90-Ejercicio-local-con-PADIS)
+- [1. Guía ‐ Ejercicio de HTML con PADIS](https://github.com/0x5abe/padislib-docs/wiki/1.-Gu%C3%ADa-%E2%80%90-Ejercicio-de-HTML-con-PADIS)
+- [2. Guía ‐ Ejercicio usando checks personalizados con PADIS](https://github.com/0x5abe/padislib-docs/wiki/2.-Gu%C3%ADa-%E2%80%90-Ejercicio-usando-checks-personalizados-con-PADIS)
+
+## Issues de la validación empírica
+
+El repositorio incluye un documento con los issues surgidos durante las fases de validación con docentes y estudiantes, organizados por origen y estado. Sirve como referencia para priorización, seguimiento y mejoras futuras.
+
+- [Documento de issues]()
 
 ## Licencia
 
-El contenido de estas guías se distribuye bajo licencia MIT, salvo indicación contraria.
+El contenido de esta documentación se distribuye bajo licencia MIT, salvo indicación contraria.
