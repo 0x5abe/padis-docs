@@ -1,6 +1,6 @@
-# PADISLIB – Documentación
+# PADIS – Documentación
 
-Este repositorio reúne documentación de apoyo para **PADISLIB** y su uso en PADIS. Incluye:
+Este repositorio reúne documentación de apoyo para **PADIS**. Incluye:
 
 - **Guías de uso** (principalmente dirigidas a docentes) mantenidas en la **Wiki del repositorio**.
 - **Documentación de issues** identificados durante la **validación empírica** (docentes y estudiantes), utilizada como referencia para el mantenimiento y la evolución de la plataforma.
