@@ -11,9 +11,9 @@ Este material fue utilizado durante el desarrollo y la validación de PADIS y se
 
 La Wiki reúne principalmente guías para:
 
-- preparación de repositorios base para ejercicios,
-- configuración de assignments en GitHub Classroom,
-- elaboración de archivos de checks utilizando PADISLIB.
+- Preparación de repositorios base para ejercicios
+- Configuración de assignments en GitHub Classroom
+- Elaboración de archivos de checks utilizando PADISLIB
 
 Las guías completas se encuentran en la **Wiki del repositorio**:
 
